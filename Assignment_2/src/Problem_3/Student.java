@@ -22,8 +22,6 @@ public class Student {
 		 System.out.println("Roll : "+Roll);
 		 System.out.println("DSA Marks : "+DSA_MARK);
 	 }
-	 //wap to add 2 time objects where time is represented as 
-	 //distance object
 	 
 	 
 }
