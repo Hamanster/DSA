@@ -6,13 +6,14 @@ public class H_2 {
         Scanner sc=new Scanner(System.in);
 
         System.out.println("Enter the size of the array : ");
-        int m=sc.nextInt();
 
-        String [] a =new String[m];
+        String [] a =new String[sc.nextInt()];
 
         System.out.println("Enter the values of the array: ");
 
-        for (int i =0;i<a.length;i++){
+        sc.nextLine();
+
+        for (int i =0;i<=a.length;i++){
             a[i]=sc.nextLine();
         }
 
