@@ -37,7 +37,7 @@ public class Problem_7 {
 			}
 		}
 		System.out.println("max : "+max +" time "+ (max_o -1));
-		System.out.println("min : "+min +" time "+(min_o ));
+		System.out.println("min : "+min +" time "+(min_o -1));
 		System.out.println("max position :"+(p1+1));
 		System.out.println("min position :"+(p2+1));
 		
