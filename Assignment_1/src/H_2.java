@@ -13,7 +13,7 @@ public class H_2 {
 
         sc.nextLine();
 
-        for (int i =0;i<=a.length;i++){
+        for (int i =0;i<a.length;i++){
             a[i]=sc.nextLine();
         }
 
